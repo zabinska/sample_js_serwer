@@ -1,1 +1,1 @@
-# sample_js_serwer
+# simple_js_serwer
